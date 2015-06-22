@@ -1,0 +1,3 @@
+[submodule "stylesheets/compless"]
+	path = stylesheets/compless
+	url = https://github.com/neoascetic/compless.git
