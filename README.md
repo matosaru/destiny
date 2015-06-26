@@ -2,7 +2,7 @@
 
 1. Setup the global environment:
     ```
-    sudo npm --global node-dev bower
+    sudo npm install --global node-dev bower
     ```
 
 1. Setup local node environment:
